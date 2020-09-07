@@ -1,0 +1,7 @@
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /Temp/bin/Debug/Assembly-CSharp.dll
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /obj/Debug/Assembly-CSharp.dll
+/Users/junminkim/Desktop/Unity/MeepAdventure/MeepAdventureGame /obj/Debug/Assembly-CSharp.pdb
