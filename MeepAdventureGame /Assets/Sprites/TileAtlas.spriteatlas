@@ -44,7 +44,8 @@ SpriteAtlas:
     packables:
     - {fileID: 2800000, guid: 38b4a4c922b8945aa8a3ccfe8e52b7f9, type: 3}
     - {fileID: 2800000, guid: 32ccc2b2187e5455dad68d31ef63f6bc, type: 3}
-    totalSpriteSurfaceArea: 8448
+    - {fileID: 2800000, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+    totalSpriteSurfaceArea: 13824
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -74,6 +75,27 @@ SpriteAtlas:
   - {fileID: -6362943431245625752, guid: 38b4a4c922b8945aa8a3ccfe8e52b7f9, type: 3}
   - {fileID: 1903492104495627584, guid: 38b4a4c922b8945aa8a3ccfe8e52b7f9, type: 3}
   - {fileID: 6458159634129175543, guid: 38b4a4c922b8945aa8a3ccfe8e52b7f9, type: 3}
+  - {fileID: 3884320991384130625, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -1599760370635738688, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -5326534194572966699, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 5370187882261405362, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -8116502043861319031, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -996151557993403297, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 6793644371223361947, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -1478019799440682737, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -4528601982431571850, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -1283966695776141498, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -7967295269871658430, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 3982549354527447744, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 4225878198241206153, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 3777909418832884118, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -6788840578933449091, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 6294770679869771688, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 6703958206406296726, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -2892396369238234305, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 4777107901958115930, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: 446390497485302015, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
+  - {fileID: -4851526297858403083, guid: 7270392f2c69c41eda36bde7123ec8da, type: 3}
   m_PackedSpriteNamesToIndex:
   - MeepBdayCactus_2
   - MeepBdayCactus_0
@@ -99,5 +121,26 @@ SpriteAtlas:
   - MeepBdaySpritesheet_4
   - MeepBdaySpritesheet_9
   - MeepBdaySpritesheet_8
+  - MeepBdaySpritesheet 2_18
+  - MeepBdaySpritesheet 2_19
+  - MeepBdaySpritesheet 2_14
+  - MeepBdaySpritesheet 2_15
+  - MeepBdaySpritesheet 2_16
+  - MeepBdaySpritesheet 2_17
+  - MeepBdaySpritesheet 2_10
+  - MeepBdaySpritesheet 2_11
+  - MeepBdaySpritesheet 2_12
+  - MeepBdaySpritesheet 2_13
+  - MeepBdaySpritesheet 2_5
+  - MeepBdaySpritesheet 2_4
+  - MeepBdaySpritesheet 2_7
+  - MeepBdaySpritesheet 2_6
+  - MeepBdaySpritesheet 2_1
+  - MeepBdaySpritesheet 2_0
+  - MeepBdaySpritesheet 2_3
+  - MeepBdaySpritesheet 2_2
+  - MeepBdaySpritesheet 2_9
+  - MeepBdaySpritesheet 2_8
+  - MeepBdaySpritesheet 2_20
   m_Tag: TileAtlas
   m_IsVariant: 0
